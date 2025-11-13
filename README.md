@@ -1,4 +1,4 @@
-# FlamEdge Application
+# FlamAndroudAPK 
 
 Real-time Android edge detection pipeline powered by Camera2, JNI, OpenCV (C++), and OpenGL ES 2.0, plus a lightweight TypeScript web viewer for sharing processed frames.
 
